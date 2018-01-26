@@ -1,0 +1,17 @@
+body
+{ 
+    background-color :cyan;
+ text-align:center;
+ 
+}
+h1
+{
+    color :black;
+	text-decoration: underline;
+	font-size :50px;
+	font-family:Bradley hand itc;
+  font-weight:boldest;
+}
+table{
+ background-color:white;
+}
